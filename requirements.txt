@@ -11,4 +11,5 @@ matplotlib
 plotly
 folium
 seaborn
+voila
 
