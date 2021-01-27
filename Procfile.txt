@@ -1,1 +1,0 @@
-web: voila corona_vairus_dash.ipynb
